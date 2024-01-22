@@ -4,7 +4,8 @@ This app is fully open source.
 
 ## How to run:
 - Execute the app by running `python main.py` after installing requirements and python modules.
-- You will be able to make requests to the given app through the `/ask` endpoint on the hosted web url(like localhost:5000 as default). 
+- You will be able to make requests to the given app through the `/ask` endpoint on the hosted web url(like localhost:5000 as default).
+(Alternatively requests can be made using the app.js file by editing the prompt and using `node app.js`)
 ## Requirements :
 Langchain
 Faiss
