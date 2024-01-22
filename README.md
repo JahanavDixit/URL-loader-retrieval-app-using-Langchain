@@ -7,12 +7,12 @@ This app is fully open source.
 - You will be able to make requests to the given app through the `/ask` endpoint on the hosted web url(like localhost:5000 as default).
 (Alternatively requests can be made using the app.js file by editing the prompt and using `npm install axios; node app.js`)
 ## Requirements :
-Langchain
-Faiss
-Flask
-Spacy
-BeautifulSoup
-Hugging Face API key(optional)
+-- Langchain
+-- Faiss
+-- Flask
+-- Spacy
+-- BeautifulSoup
+-- Hugging Face API key
 
 ## About :
 This RAG app uses 
