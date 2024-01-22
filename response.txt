@@ -1,0 +1,3 @@
+Response: {
+  answer: ' This website offers various coding and programming courses for kids and beginners, ranging from Scratch and Python to Java and AI. The courses are project-based and designed to be engaging and interactive, with a focus on practical skills and real-world applications. The website also provides information about upcoming camps and bootcamps, as well as pricing and registration details. Overall, it seems like a great resource for anyone looking to learn coding and programming skills in a fun and supportive environment.'
+}
