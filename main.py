@@ -18,7 +18,8 @@ warnings.filterwarnings('ignore')
 
 
 print("Enter your HuggingFace API token:")
-HUGGINGFACEHUB_API_TOKEN = "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"
+
+HUGGINGFACEHUB_API_TOKEN = getpass()
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACEHUB_API_TOKEN
 
 
